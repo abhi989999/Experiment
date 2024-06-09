@@ -1,3 +1,6 @@
 console.log("Hello World")
 
-console.log("Hello ")
+const a= 2;
+ const b = 4
+  const  c= a+b
+  console.log(c)
